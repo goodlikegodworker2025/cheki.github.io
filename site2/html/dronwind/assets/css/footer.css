@@ -1,0 +1,54 @@
+
+footer { background-color: var(--primary-color); }
+
+footer .main-box { padding: 80px 0; border-bottom: 0.5px solid var(--secondary-color);}
+
+footer .main-content { max-width: 600px;}
+
+footer .main-content p { padding: 25px 0 30px 0;}
+
+footer .main-input { height: unset;}
+
+footer .form-control { background-color: transparent;}
+
+footer .theme-button { border-radius: 15px !important;}
+
+footer .input-group { background-color: rgb(255, 255, 255, 0.2); border-radius: 15px;}
+
+footer .form-control::-webkit-input-placeholder { font-weight: var(--light-font); font-size: 14px; } 
+
+footer .copyright p { padding: 15px 0; line-height: 25px; font-weight: var(--regular-font);}
+
+footer .form-control:focus { background-color: transparent; }
+
+@media (max-width:1399px) {
+    
+}
+
+@media (max-width:1199px) {
+    
+}
+
+@media (max-width:991px) {
+
+footer .main-box { padding: 70px 0;}
+    
+}
+
+@media (max-width:767px) {
+    
+footer .copyright p { padding: 15px 0; line-height: 25px;}
+
+footer .main-content p { padding: 25px 0 25px 0;}
+
+footer .main-box { padding: 50px 0;}
+
+}
+
+@media (max-width:575px) {
+
+}
+
+@media (max-width:430px) {
+    
+}

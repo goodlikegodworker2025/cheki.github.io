@@ -1,0 +1,40 @@
+
+.user-manual { background-color: var(--primary-color);}
+
+.user-manual .inner-box { padding: 25px; border-radius: 20px; background-color: var(--dark-color); min-height: 309px; transition: all 0.3s ease-in;}
+
+.user-manual .inner-box:hover { background-color: var(--primary-color); box-shadow:0 0 30px 0px rgb(255, 255, 255, 0.2) inset;}
+
+.user-manual .inner-box h4 {padding: 20px 0 15px 0;}
+
+.user-manual h3 { padding-bottom: 40px;}
+
+.user-manual .main-box .inner-box:hover h4 { background: linear-gradient(94.12deg, #EFEAAD 16.22%, #EFD0AD 60.61%, #9DDCF0 103.18%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; display: inline-block;}
+
+.user-manual .row { row-gap: 30px;}
+
+@media (max-width:1399px) {
+    
+}
+
+@media (max-width:1199px) {
+    
+}
+
+@media (max-width:991px) {
+
+.user-manual .inner-box { min-height: unset;}
+    
+}
+
+@media (max-width:767px) {
+
+}
+
+@media (max-width:575px) {
+
+}
+
+@media (max-width:430px) {
+
+}

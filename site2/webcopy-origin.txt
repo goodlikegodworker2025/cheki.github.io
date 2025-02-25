@@ -1,0 +1,336 @@
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5Z11lFc-K.woff2
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\s\poppins\v20\pxiByp8kv8JHgFVrLBT5Z11lFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5Z1JlFc-K.woff2
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\s\poppins\v20\pxiByp8kv8JHgFVrLBT5Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5Z1xlFQ.woff2
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\s\poppins\v20\pxiByp8kv8JHgFVrLBT5Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z11lFc-K.woff2
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z11lFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1JlFc-K.woff2
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z11lFc-K.woff2
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z11lFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1JlFc-K.woff2
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1xlFQ.woff2
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z11lFc-K.woff2
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z11lFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1JlFc-K.woff2
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z11lFc-K.woff2
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z11lFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1JlFc-K.woff2
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLFj_Z11lFc-K.woff2
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\s\poppins\v20\pxiByp8kv8JHgFVrLFj_Z11lFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLFj_Z1JlFc-K.woff2
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\s\poppins\v20\pxiByp8kv8JHgFVrLFj_Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLFj_Z1xlFQ.woff2
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\s\poppins\v20\pxiByp8kv8JHgFVrLFj_Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z11lFc-K.woff2
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z11lFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1JlFc-K.woff2
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJbecmNE.woff2
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\s\poppins\v20\pxiEyp8kv8JHgFVrJJbecmNE.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecg.woff2
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\s\poppins\v20\pxiEyp8kv8JHgFVrJJfecg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJnecmNE.woff2
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\s\poppins\v20\pxiEyp8kv8JHgFVrJJnecmNE.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrLPTucHtA.woff2
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\s\poppins\v20\pxiGyp8kv8JHgFVrLPTucHtA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrLPTucXtAKPY.woff2
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\s\poppins\v20\pxiGyp8kv8JHgFVrLPTucXtAKPY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrLPTufntAKPY.woff2
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\s\poppins\v20\pxiGyp8kv8JHgFVrLPTufntAKPY.woff2
+Content Type: font/woff2
+
+Uri: https://img1.wsimg.com/signals/js/clients/scc-c2/scc-c2.min.js
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\signals\js\clients\scc-c2\scc-c2.min.js
+Content Type: text/javascript
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\index.htm
+Content Type: text/html
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/css/animate.css
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\css\animate.css
+Content Type: text/css
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/css/detail-features.css
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\css\detail-features.css
+Content Type: text/css
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/css/features.css
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\css\features.css
+Content Type: text/css
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/css/font-awesome.css
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\css\font-awesome.css
+Content Type: text/css
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/css/font.css
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\css\font.css
+Content Type: text/css
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/css/footer.css
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\css\footer.css
+Content Type: text/css
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/css/header.css
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\css\header.css
+Content Type: text/css
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/css/hero-banner.css
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\css\hero-banner.css
+Content Type: text/css
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/css/modal.css
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\css\modal.css
+Content Type: text/css
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/css/product_features.css
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\css\product_features.css
+Content Type: text/css
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/css/slick-theme.css
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\css\slick-theme.css
+Content Type: text/css
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/css/slick.css
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\css\slick.css
+Content Type: text/css
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/css/smart-features.css
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\css\smart-features.css
+Content Type: text/css
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/css/style.css
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\css\style.css
+Content Type: text/css
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/css/testimonial.css
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\css\testimonial.css
+Content Type: text/css
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/css/top.css
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\css\top.css
+Content Type: text/css
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/css/user-manual.css
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\css\user-manual.css
+Content Type: text/css
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/fonts/slick.eot
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/fonts/slick.eot?
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\fonts\slick-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/fonts/slick.ttf
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\fonts\slick.ttf
+Content Type: font/ttf
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/fonts/slick.woff
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\fonts\slick.woff
+Content Type: font/woff
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/images/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/images/battery.svg
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\images\battery.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/images/camera-raw-icon.svg
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\images\camera-raw-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/images/camera.svg
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\images\camera.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/images/client.jpg
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\images\client.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/images/controler.svg
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\images\controler.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/images/detail_features_drone.png
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\images\detail_features_drone.png
+Content Type: image/png
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/images/favicon.png
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\images\favicon.png
+Content Type: image/png
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/images/fly_drone.svg
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\images\fly_drone.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/images/fly_ready.svg
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\images\fly_ready.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/images/footer-logo.svg
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\images\footer-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/images/hero_banner_drone.png
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\images\hero_banner_drone.png
+Content Type: image/png
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/images/logo.svg
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\images\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/images/main_product_drone.png
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\images\main_product_drone.png
+Content Type: image/png
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/images/phone_stand.svg
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\images\phone_stand.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/images/remote_control.svg
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\images\remote_control.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/images/robo-head.svg
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\images\robo-head.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/images/robot.svg
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\images\robot.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/images/smart_features_drone.jpg
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\images\smart_features_drone.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\js\bootstrap.bundle.min.js
+Content Type: text/javascript
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/js/custom.js
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\js\custom.js
+Content Type: text/javascript
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\js\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/js/slick.min.js
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\js\slick.min.js
+Content Type: text/javascript
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/js/wow.animation.js
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\js\wow.animation.js
+Content Type: text/javascript
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/js/wow.js
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\js\wow.js
+Content Type: text/javascript
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\webfonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: https://themes.oliveconcepts.com/html/dronwind/assets/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\themes.oliveconcepts.com\html\dronwind\assets\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+

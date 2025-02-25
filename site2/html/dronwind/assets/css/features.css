@@ -1,0 +1,45 @@
+
+.features { padding-top: 432px ;}
+
+.features .content h5 { padding: 15px 0 10px 0;}
+
+.features .content h5 a:hover { color: var(--primary-color);}
+
+.features .content p { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden;}
+
+.features .row { row-gap: 30px;}
+
+
+@media (max-width:1399px) {
+    
+.features { padding-top: 370px ;}
+
+}
+
+@media (max-width:1199px) {
+    
+.features { padding-top: 310px ;}
+
+}
+
+@media (max-width:991px) {
+
+.features { padding-top: 250px ;}
+
+}
+
+@media (max-width:767px) {
+    
+.features { padding-top: 220px ;}
+
+}
+
+@media (max-width:575px) {
+    
+.features { padding-top: 160px ;}
+
+}
+
+@media (max-width:430px) {
+    
+}
